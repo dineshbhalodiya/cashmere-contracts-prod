@@ -270,7 +270,7 @@ We welcome contributions! Please follow these guidelines:
 
 ## 🐛 Bug Reports
 
-If you discover a security vulnerability, please send an email to [security@cashmere.network]. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability, please send an email to [cashmereprotocol@gmail.com]. All security vulnerabilities will be promptly addressed.
 
 For non-security issues, please open a GitHub issue with:
 - Clear description of the problem
