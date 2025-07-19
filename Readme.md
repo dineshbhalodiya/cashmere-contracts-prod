@@ -44,7 +44,6 @@ cashmere-contracts/
     └── sources/
         └── transfer.move             # Sui Move contract
 ```
-
 ### Key Components
 
 1. **Transfer Logic** - Core cross-chain transfer functionality
