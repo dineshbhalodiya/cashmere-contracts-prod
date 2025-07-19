@@ -15,7 +15,6 @@ Cashmere CCTP is a comprehensive multi-chain solution that allows users to trans
 - **Solana** - Solana mainnet and devnet
 - **Aptos** - Aptos mainnet and testnet  
 - **Sui** - Sui mainnet and testnet
-
 ## ✨ Features
 
 - 🔄 **Cross-Chain USDC Transfers** - Seamlessly transfer USDC between different blockchain networks
