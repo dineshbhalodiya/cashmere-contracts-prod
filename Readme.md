@@ -27,7 +27,6 @@ Cashmere CCTP is a comprehensive multi-chain solution that allows users to trans
 - 🚫 **Reentrancy Protection** - Security measures against reentrancy attacks
 
 ## 🏗️ Architecture
-
 ### Contract Structure
 
 ```
