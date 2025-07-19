@@ -95,7 +95,6 @@ sui move test
 ```
 
 ## 📋 Usage
-
 ### Basic Transfer Flow
 
 1. **User initiates transfer** with destination chain, recipient, and amount
