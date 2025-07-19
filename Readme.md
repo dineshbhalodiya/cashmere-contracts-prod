@@ -55,7 +55,6 @@ cashmere-contracts/
 5. **Admin Controls** - Configuration management and emergency functions
 
 ## 🚀 Quick Start
-
 ### Prerequisites
 
 - **EVM**: Solidity ^0.8.25, Hardhat/Foundry
